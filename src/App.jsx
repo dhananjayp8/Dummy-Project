@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>New project here! dev</h1>
+      <h1>New project here!</h1>
     </>
   );
 }
